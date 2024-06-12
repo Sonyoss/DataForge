@@ -1,0 +1,27 @@
+[
+    {
+        "instruction": "Trouve le synonyme du mot \"heureux\" dans le paragraphe suivant et remplace-le.",
+        "input": "Le mariage était une occasion joyeuse pour toute la famille. Tout le monde était très heureux de célébrer l'amour des jeunes mariés.",
+        "output": "Le mariage était une occasion heureuse pour toute la famille. Tout le monde était très content de célébrer l'amour des jeunes mariés."
+    },
+    {
+        "instruction": "Crée une équation mathématique à résoudre à partir des données suivantes.",
+        "input": "Nombre de pommes = 10 Prix d'une pomme = 2 euros",
+        "output": "10 * 2 = ?"
+    },
+    {
+        "instruction": "Réécris la phrase suivante en utilisant le futur simple.",
+        "input": "Demain, nous allons au cinéma pour voir un film.",
+        "output": "Demain, nous irons au cinéma pour voir un film."
+    },
+    {
+        "instruction": "Reformule le paragraphe suivant en utilisant des synonymes.",
+        "input": "La fête d'anniversaire était très joyeuse. Tout le monde était heureux de célébrer l'occasion spéciale.",
+        "output": "La fête d'anniversaire était très festive. Tout le monde était content de célébrer l'occasion spéciale."
+    },
+    {
+        "instruction": "Termine cette phrase : \"La vie est...\"",
+        "input": "",
+        "output": "\"La vie est un voyage à savourer pleinement chaque jour.\""
+    }
+]
